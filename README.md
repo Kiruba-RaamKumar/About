@@ -1,6 +1,19 @@
-Aspiring Data Analyst
-Mechanical Engineering Graduate (2024)
-Currently pursuing a Data Analytics course to develop practical skills in data analysis and business intelligence.
-Learning SQL, Python, Power BI, Excel, PostgreSQL, and Data Visualization.
-Passionate about transforming data into meaningful insights and building real-world data analytics projects.
-Open to internships and entry-level Data Analyst opportunities.
+# Hi, I'm T.A. Kiruba Raam Kumar 
+Data Analyst | Python | SQL | Power BI | Excel
+I'm currently pursuing Data Analytics and building projects in
+Python, SQL, Power BI and Excel.
+🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/raamkumar-dataanalyst
+- GitHub:https://github.com/Kiruba-RaamKumar
+
+Skills
+- Python
+- Pandas
+- SQL
+- PostgreSQL
+- Power BI
+- DAX
+- Excel
+- Data Cleaning
+- Data Visualization
