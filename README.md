@@ -41,9 +41,7 @@ I'm an aspiring Data Analyst with a B.E. in Mechanical Engineering (2024), passi
 - **GitHub:** https://github.com/Kiruba-RaamKumar
 - **Email:** raamk2002@gmail.com
 
----Thank you for visiting my profile!
-
-Turning Data into Insights. Transforming Insights into Decisions.
+---
 
 ⭐Thank you for visiting my profile!
 *Turning Data into Insights. Transforming Insights into Decisions.*
