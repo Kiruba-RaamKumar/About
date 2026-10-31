@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 I'm an aspiring Data Analyst with a B.E. in Mechanical Engineering (2024), passionate about data analytics, business intelligence, and transforming raw data into meaningful insights.
 
-## 🚀 About Me
+##  About Me
 
 -  Interested in Data Analytics and Business Intelligence.
 -  Learning and working with Python, Pandas and NumPy.
@@ -15,7 +15,7 @@ I'm an aspiring Data Analyst with a B.E. in Mechanical Engineering (2024), passi
 -  Developing practical projects to solve business problems.
 -  Seeking entry-level Data Analyst opportunities.
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Programming:** Python, Pandas, NumPy
 
@@ -25,7 +25,7 @@ I'm an aspiring Data Analyst with a B.E. in Mechanical Engineering (2024), passi
 
 **Analytics:** Data Cleaning, EDA, Data Transformation, Data Visualization
 
-## 📊 Featured Projects
+##  Featured Projects
 
 | Project | Domain | Tools |
 |---|---|---|
@@ -34,7 +34,7 @@ I'm an aspiring Data Analyst with a B.E. in Mechanical Engineering (2024), passi
 | Nestlé Australia Sales | Sales Analytics | Power BI |
 | HR Analytics Dashboard | Human Resources | Excel, Python, SQL, Power BI |
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 - **Portfolio:** [https://kiruba-data-story.lovable.app]
 - **LinkedIn:** https://www.linkedin.com/in/raamkumar-dataanalyst/
@@ -42,7 +42,9 @@ I'm an aspiring Data Analyst with a B.E. in Mechanical Engineering (2024), passi
 - **Email:** raamk2002@gmail.com
 
 ---
+ Thank you for visiting my profile!
 
-⭐ Thank you for visiting my profile!
+Turning Data into Insights. Transforming Insights into Decisions.
 
+⭐Thank you for visiting my profile!
 *Turning Data into Insights. Transforming Insights into Decisions.*
