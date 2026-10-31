@@ -1,4 +1,4 @@
-# Hi, I'm T.A. Kiruba Raam Kumar 👋
+# Hi, I'm T.A. Kiruba Raam Kumar 
 
 ### Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
@@ -8,12 +8,12 @@ I'm an aspiring Data Analyst with a B.E. in Mechanical Engineering (2024), passi
 
 ## 🚀 About Me
 
-- 📊 Interested in Data Analytics and Business Intelligence.
-- 🐍 Learning and working with Python, Pandas and NumPy.
-- 🗄️ Practising SQL, MySQL and PostgreSQL.
-- 📈 Building interactive dashboards using Power BI and DAX.
-- 📁 Developing practical projects to solve business problems.
-- 🎯 Seeking entry-level Data Analyst opportunities.
+-  Interested in Data Analytics and Business Intelligence.
+-  Learning and working with Python, Pandas and NumPy.
+-  Practising SQL, MySQL and PostgreSQL.
+-  Building interactive dashboards using Power BI and DAX.
+-  Developing practical projects to solve business problems.
+-  Seeking entry-level Data Analyst opportunities.
 
 ## 🛠️ Technical Skills
 
