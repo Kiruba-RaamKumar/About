@@ -7,8 +7,7 @@ Python, SQL, Power BI and Excel.
 
 - LinkedIn:https://www.linkedin.com/in/raamkumar-dataanalyst
 - GitHub:https://github.com/Kiruba-RaamKumar
-
--Portflio:https://kiruba-data-story.lovable.app
+* Portflio:https://kiruba-data-story.lovable.app
 
 Skills
 - Python
